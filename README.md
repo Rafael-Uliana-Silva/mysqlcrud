@@ -1,2 +1,2 @@
 # mysqlcrud
-CRUD simples
+CRUD simples para testes com mySQL
